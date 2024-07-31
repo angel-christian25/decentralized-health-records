@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "healthRecordExists604",
+        "transactionLabel": "A test healthRecordExists604 transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createHealthRecord604",
+        "transactionLabel": "A test createHealthRecord604 transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readMyAsset604",
+        "transactionLabel": "A test readMyAsset604 transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateMyAsset604",
+        "transactionLabel": "A test updateMyAsset604 transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteMyAsset604",
+        "transactionLabel": "A test deleteMyAsset604 transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
